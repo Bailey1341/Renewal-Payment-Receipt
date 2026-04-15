@@ -7,7 +7,7 @@ Product: Norton 360 Device Security
 Transaction Reference: GQM29-915248
 Total Charged: $428.30 USD
 Customer Care: +1 (833) • 436 • 8462
-Renewal Date: 15 April 2026
+Renewal Date: April 15, 2026
 
 If you believe this purchase was not authorized, please contact our support department immediately at +1 (833) • 436 • 8462 for prompt action.
 
