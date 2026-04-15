@@ -1,10 +1,10 @@
-Dear Customer,
+Hello Customer,
 
 A recent Norton 360 order associated with your account has been confirmed. The payment was approved successfully, and system activation will begin shortly after verification.
 
 Billing Information
 Product: Norton 360 Device Security
-Transaction Reference: GQM29-77405
+Transaction Reference: GQM29-915248
 Total Charged: $428.30 USD
 Customer Care: +1 (833) • 436 • 8462
 Renewal Date: 15 April 2026
